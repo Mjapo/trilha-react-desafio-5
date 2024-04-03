@@ -21,11 +21,12 @@ A customizable blog starter using:
 
 ## Table of Contents:
 
+- [Table of Contents:](#table-of-contents)
 - [Getting Started](#getting-started)
   - [Setting Up Locally](#setting-up-locally)
-  - [Using the Wizard](#using-the-setup-wizard)
-- [Configuring the Blog](#configuring-the-blog)
-- [Adding New Posts](#adding-new-posts)
+  - [Using the Setup Wizard](#using-the-setup-wizard)
+- [Configuring the blog](#configuring-the-blog)
+- [Adding new posts](#adding-new-posts)
 - [Testing](#testing)
   - [Included Default Testing](#included-default-testing)
   - [Removing Renovate](#removing-renovate)
@@ -137,3 +138,5 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 ```bash
 npm uninstall cypress
 ```
+
+![alt text](image.png)
